@@ -54,3 +54,5 @@ Railway: closingqc
 Cloudflare: closingqc.vokrix.co
 
 Billing: price_1UKozB2c9uGCcgMSr6bqvQ9n
+
+Landing: https://vokrix.co/closingqc
