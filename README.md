@@ -47,3 +47,6 @@ Valid, Missing, Unsigned, Expired, Flagged, Needs Review, Mismatch, Late, Notary
 
 - Demo: `python3 run_demo.py`
 - Tests: `python3 run_tests.py`
+
+Dashboard: https://closingqc.vokrix.co
+Vercel: closingqc
